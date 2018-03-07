@@ -18,5 +18,5 @@ git commit -m "first commint" file1.txt   (commit the changes)
 
 git push -u origin master   (Push changes to Github repo)
 
-
+git pull    (Pull the update repo from Github)
 https://www.youtube.com/watch?v=J_Clau1bYco
