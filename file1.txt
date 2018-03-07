@@ -1,8 +1,22 @@
-test my first file
-test my first file
-test my first file
-test my first file
-test my first file
-test my first file
+First create a Git folder under D:\Git
 
-test my first file
+Using Git bash go to this Dir
+
+git config --global user.name "varun6119"        (To add Github account)
+
+git config --global user.email varun.27.1987@gmail.com   (To add email of Github account)
+
+git clone https://github.com/varun6119/hello-varun.git    (To Clone the git repo)
+
+Create a test file under the git repo folder on your computer
+
+git add file1.txt      (To add file to git repo)
+
+git status             (To check status of file)
+
+git commit -m "first commint" file1.txt   (commit the changes)
+
+git push -u origin master   (Push changes to Github repo)
+
+
+https://www.youtube.com/watch?v=J_Clau1bYco
