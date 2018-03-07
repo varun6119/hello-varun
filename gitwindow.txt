@@ -1,1 +1,2 @@
 this is for windows test from cmd
+this file available to git repo now
